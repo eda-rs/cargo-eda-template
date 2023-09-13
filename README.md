@@ -1,0 +1,1 @@
+Use template with ```cargo-generate```
